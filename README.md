@@ -8,18 +8,18 @@
 
 ## Структура проекта
 
-- `Main.java` — графический интерфейс на JavaFX
-- `Stolovaya.java` — управление симуляцией
-- `Chelovek.java` — класс посетителя
-- `Stol.java` — класс столика
-- `Blyudo.java` — класс блюда
-- `Razdacha.java` — очередь к раздаче
-- `Kassa.java` — очередь к кассе
-- `Okno.java` — окно грязной посуды
-- `Rabotnik.java` — родительский класс работников
-- `Povar.java` — класс поварёнка (наследник Rabotnik)
-- `Posudomoy.java` — класс посудомоя (наследник Rabotnik)
-- `Statistika.java` — вывод статистики
+- Main.java — графический интерфейс на JavaFX
+- Stolovaya.java — управление симуляцией
+- Chelovek.java — класс посетителя
+- Stol.java — класс столика
+- Blyudo.java — класс блюда
+- Razdacha.java — очередь к раздаче
+- Kassa.java — очередь к кассе
+- Okno.java — окно грязной посуды
+- Rabotnik.java — родительский класс работников
+- Povar.java — класс поварёнка (наследник Rabotnik)
+- Posudomoy.java — класс посудомоя (наследник Rabotnik)
+- Statistika.java — вывод статистики
 
 ## Принципы ООП
 
